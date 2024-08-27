@@ -1,0 +1,73 @@
+*
+{
+    margin: 20px;
+}
+.nivel1
+{
+    width: 900px;
+    height: 500px;
+    background-color: rgb(175, 153, 219);
+    padding: 10px;
+    border-style: dotted;
+}
+.subnivel1
+{
+    width: 840px;
+    height: 440px;
+    background-color:rgb(192, 212, 241);
+    padding: 10px;
+    border-style: dotted;
+    
+}
+
+.ssubnivel1
+{
+    
+    width: 782px;
+    height: 380px;
+    background-color:rgb(146, 153, 221) ;
+    padding:10px;
+    border-style: dotted;
+}
+.ssubnivel2
+{
+    
+    width: 722px;
+    height: 320px;
+    background-color:rgb(175, 153, 219);
+    padding: 10px;
+    padding-right: 10px;
+    border-style: dotted;
+}
+.ssubnivel3
+{
+    width: 660px;
+    height: 260px;
+    background-color:rgb(192, 212, 241) ;
+    padding: 10px;
+    padding-right: 10px;
+    border-style: dotted;
+}
+.ssubnivel4
+{
+    width: 600px;
+    height: 200px;
+    background-color:rgb(146, 153, 221) ;
+    padding: 10px;
+    padding-right: 10px;
+    border-style: dotted;
+
+}
+.ssubnivel5
+{
+    width: 540px;
+    height: 140px;
+    background-color:rgb(210, 210, 243) ;
+    padding: 10px;
+    padding-right: 10px;
+    justify-content:center ;
+    align-items: center;
+    text-align: center;
+    font-size:xx-large;
+    border-style: dotted;
+}
